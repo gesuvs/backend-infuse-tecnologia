@@ -87,4 +87,5 @@ networks:
   kafka-net:
     driver: bridge
   creditos-network:
+    name: creditos-network
     driver: bridge
