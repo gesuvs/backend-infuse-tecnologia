@@ -77,8 +77,8 @@ spring:
 
 ### 1. Clonar o projeto
 ```bash
-git clone https://github.com/seuusuario/creditos-api.git
-cd creditos-api
+git clone [https://github.com/seuusuario/creditos-api.git](https://github.com/gesuvs/infuse-tecnologia.git)
+cd infuse-tecnologia
 ```
 
 ### 2. Subir os containers com Docker Compose
